@@ -25,13 +25,24 @@ class LoginPage {
 
 
     async clearUsername() {
-        await this.usernameInput.clearValue();
+        // Método 1: Seleccionar todo y borrar
+        await this.usernameInput.click();
+        await browser.keys(['Control', 'a']);
+        await browser.keys('Delete');
+        
+        // O Método 2: Limpiar con loop
+        // const value = await this.usernameInput.getValue();
+        // for(let i = 0; i < value.length; i++) {
+        //     await browser.keys('Backspace');
+        // }
     }
-    
+
     async clearPassword() {
-        await this.passwordInput.clearValue();
+        await this.passwordInput.click();
+        await browser.keys(['Control', 'a']);
+        await browser.keys('Delete');
     }
-    
+
     async clearBothFields() {
         await this.clearUsername();
         await this.clearPassword();

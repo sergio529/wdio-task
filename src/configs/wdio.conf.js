@@ -55,13 +55,13 @@ exports.config = {
         'goog:chromeOptions': {
             args: ['--start-maximized', '--disable-infobars']
         }
-    }, {
-        maxInstances: 1,
-        browserName: 'MicrosoftEdge',
-        'ms:edgeOptions': {
-            args: ['--start-maximized', '--disable-infobars']
-        }
-    }],
+    // }, {
+    //     maxInstances: 1,
+    //     browserName: 'MicrosoftEdge',
+    //     'ms:edgeOptions': {
+    //         args: ['--start-maximized', '--disable-infobars']
+    //     }
+       }],
 
     //
     // ===================
