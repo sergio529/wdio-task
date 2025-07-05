@@ -21,7 +21,7 @@ exports.config = {
     // of the config file unless it's absolute.
     //
     specs: [
-    './src/features/**/*.feature'
+    '../features/**/*.feature'
     ],
     // Patterns to exclude.
     exclude: [
@@ -49,12 +49,18 @@ exports.config = {
     // Sauce Labs platform configurator - a great tool to configure your capabilities:
     // https://saucelabs.com/platform/platform-configurator
     //
-    capabilities: [{
+     capabilities: [{
         maxInstances: 1,
-        browserName: 'chrome'
+        browserName: 'chrome',
+        'goog:chromeOptions': {
+            args: ['--start-maximized', '--disable-infobars']
+        }
     }, {
         maxInstances: 1,
-        browserName: 'MicrosoftEdge'
+        browserName: 'MicrosoftEdge',
+        'ms:edgeOptions': {
+            args: ['--start-maximized', '--disable-infobars']
+        }
     }],
 
     //
@@ -136,7 +142,7 @@ exports.config = {
     // If you are using Cucumber you need to specify the location of your step definitions.
     cucumberOpts: {
         // <string[]> (file/dir) require files before executing features
-        require: ['./src/step-definitions/**/*.js'],
+        require: ['./src/step-definitions/**/*.js' ],
         // <boolean> show full backtrace for errors
         backtrace: false,
         // <string[]> ("extension:module") require files with the given EXTENSION after requiring MODULE (repeatable)
@@ -158,7 +164,8 @@ exports.config = {
         // <number> timeout for step definitions
         timeout: 60000,
         // <boolean> Enable this config to treat undefined definitions as warnings.
-        ignoreUndefinedDefinitions: false
+        ignoreUndefinedDefinitions: false,
+        format: ['pretty']
     },
 
 
