@@ -1,0 +1,420 @@
+[2025-07-07T01:13:35.314Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:35.314Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:35.948Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:13:35.948Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:13:36.053Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:13:36.057Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:13:36.128Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:13:36.156Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:13:36.323Z] [INFO] Clicking Login button
+[2025-07-07T01:13:36.402Z] [INFO] Clicking Login button
+[2025-07-07T01:13:36.421Z] [INFO] Validating error message. Expected: "Epic sadface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:13:36.543Z] [INFO] Validating error message. Expected: "Epic sadface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:13:37.171Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:37.344Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:37.712Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:13:37.786Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:37.843Z] [INFO] Clearing Password field
+[2025-07-07T01:13:37.889Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:13:37.947Z] [INFO] Clicking Login button
+[2025-07-07T01:13:37.979Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:38.047Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:13:38.049Z] [INFO] Clearing Password field
+[2025-07-07T01:13:38.157Z] [INFO] Clicking Login button
+[2025-07-07T01:13:38.245Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:13:38.787Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:39.070Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:39.324Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:13:39.395Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:39.455Z] [INFO] Clicking Login button
+[2025-07-07T01:13:39.540Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:39.596Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:39.626Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:13:39.710Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:39.790Z] [INFO] Clicking Login button
+[2025-07-07T01:13:39.901Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:40.039Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:40.395Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:40.771Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:40.992Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:13:41.070Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:41.125Z] [INFO] Clicking Login button
+[2025-07-07T01:13:41.207Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:41.266Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:41.320Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:13:41.408Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:41.499Z] [INFO] Clicking Login button
+[2025-07-07T01:13:41.611Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:41.737Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:42.042Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:42.522Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:42.588Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:13:42.667Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:42.720Z] [INFO] Clicking Login button
+[2025-07-07T01:13:43.084Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:13:43.169Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:43.247Z] [INFO] Clicking Login button
+[2025-07-07T01:13:47.797Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:47.847Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:48.346Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:48.411Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:48.566Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:49.120Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:13:49.202Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:49.222Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:49.289Z] [INFO] Clicking Login button
+[2025-07-07T01:13:49.357Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:49.406Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:49.784Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:13:49.875Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:49.945Z] [INFO] Clicking Login button
+[2025-07-07T01:13:50.042Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:50.111Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:50.139Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:50.682Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:13:50.782Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:50.849Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:13:50.860Z] [INFO] Clicking Login button
+[2025-07-07T01:13:50.934Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:50.982Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:13:51.412Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:13:51.498Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:13:51.561Z] [INFO] Clicking Login button
+[2025-07-07T01:13:51.642Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:13:51.748Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:29.071Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:29.095Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:29.616Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:15:29.650Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:15:29.732Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:15:29.767Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:15:29.802Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:15:29.860Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:15:30.008Z] [INFO] Clicking Login button
+[2025-07-07T01:15:30.088Z] [INFO] Clicking Login button
+[2025-07-07T01:15:30.103Z] [INFO] Validating error message. Expected: "Epic happyface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:15:30.208Z] [INFO] Validating error message. Expected: "Epic happyface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:15:30.990Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:31.135Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:31.606Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:15:31.689Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:15:31.701Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:31.788Z] [INFO] Clearing Password field
+[2025-07-07T01:15:31.824Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:31.903Z] [INFO] Clicking Login button
+[2025-07-07T01:15:31.920Z] [INFO] Clearing Password field
+[2025-07-07T01:15:31.996Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:15:32.015Z] [INFO] Clicking Login button
+[2025-07-07T01:15:32.125Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:15:32.769Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:32.913Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:33.305Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:15:33.383Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:33.440Z] [INFO] Clicking Login button
+[2025-07-07T01:15:33.459Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:15:33.534Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:33.558Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:33.612Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:33.679Z] [INFO] Clicking Login button
+[2025-07-07T01:15:33.774Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:33.862Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:34.454Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:34.660Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:34.990Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:15:35.067Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:35.128Z] [INFO] Clicking Login button
+[2025-07-07T01:15:35.212Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:15:35.220Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:35.291Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:35.331Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:35.391Z] [INFO] Clicking Login button
+[2025-07-07T01:15:35.480Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:35.529Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:36.132Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:36.374Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:36.668Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:15:36.753Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:36.819Z] [INFO] Clicking Login button
+[2025-07-07T01:15:36.909Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:15:37.003Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:37.083Z] [INFO] Clicking Login button
+[2025-07-07T01:15:41.902Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:41.953Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:42.178Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:42.299Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:42.660Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:43.127Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:43.200Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:15:43.270Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:43.326Z] [INFO] Clicking Login button
+[2025-07-07T01:15:43.404Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:43.459Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:43.653Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:15:43.757Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:43.896Z] [INFO] Clicking Login button
+[2025-07-07T01:15:43.992Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:44.081Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:44.192Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:44.745Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:15:44.836Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:15:44.858Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:44.925Z] [INFO] Clicking Login button
+[2025-07-07T01:15:45.000Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:45.081Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:15:45.404Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:15:45.504Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:15:45.593Z] [INFO] Clicking Login button
+[2025-07-07T01:15:45.683Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:15:45.740Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:01.798Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:01.799Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:02.350Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:17:02.409Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:17:02.445Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:17:02.521Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:17:02.527Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:17:02.608Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:17:02.721Z] [INFO] Clicking Login button
+[2025-07-07T01:17:02.811Z] [INFO] Validating error message. Expected: "Epic happyface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:17:02.832Z] [INFO] Clicking Login button
+[2025-07-07T01:17:02.956Z] [INFO] Validating error message. Expected: "Epic happyface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:17:03.787Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:03.906Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:04.400Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:17:04.483Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:04.548Z] [INFO] Clearing Password field
+[2025-07-07T01:17:04.560Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:17:04.648Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:04.660Z] [INFO] Clicking Login button
+[2025-07-07T01:17:04.729Z] [INFO] Clearing Password field
+[2025-07-07T01:17:04.762Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:17:04.835Z] [INFO] Clicking Login button
+[2025-07-07T01:17:04.939Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:17:05.584Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:05.761Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:06.305Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:17:06.306Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:17:06.398Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:06.399Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:06.457Z] [INFO] Clicking Login button
+[2025-07-07T01:17:06.462Z] [INFO] Clicking Login button
+[2025-07-07T01:17:06.553Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:06.556Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:06.650Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:06.675Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:07.557Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:07.614Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:08.107Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:17:08.177Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:08.213Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:17:08.236Z] [INFO] Clicking Login button
+[2025-07-07T01:17:08.319Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:08.340Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:08.408Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:08.434Z] [INFO] Clicking Login button
+[2025-07-07T01:17:08.521Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:08.604Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:09.224Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:09.560Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:09.794Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:17:09.876Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:09.923Z] [INFO] Clicking Login button
+[2025-07-07T01:17:10.105Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:17:10.187Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:10.286Z] [INFO] Clicking Login button
+[2025-07-07T01:17:15.025Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:15.081Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:15.399Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:15.466Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:15.809Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:16.418Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:17:16.528Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:16.606Z] [INFO] Clicking Login button
+[2025-07-07T01:17:16.701Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:16.709Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:16.808Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:17.371Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:17:17.461Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:17.508Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:17.538Z] [INFO] Clicking Login button
+[2025-07-07T01:17:17.617Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:17.709Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:18.072Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:17:18.179Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:18.287Z] [INFO] Clicking Login button
+[2025-07-07T01:17:18.383Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:18.474Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:17:18.539Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:17:19.597Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:17:19.668Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:17:19.732Z] [INFO] Clicking Login button
+[2025-07-07T01:17:19.812Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:17:19.898Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:00.836Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:00.843Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:01.402Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:18:01.492Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:18:01.532Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:18:01.599Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:18:01.618Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:18:01.721Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:18:01.828Z] [INFO] Clicking Login button
+[2025-07-07T01:18:01.945Z] [INFO] Validating error message. Expected: "Epic sadface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:18:01.957Z] [INFO] Clicking Login button
+[2025-07-07T01:18:02.087Z] [INFO] Validating error message. Expected: "Epic sadface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:18:02.811Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:03.028Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:03.345Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:18:03.461Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:03.541Z] [INFO] Clearing Password field
+[2025-07-07T01:18:03.589Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:18:03.629Z] [INFO] Clicking Login button
+[2025-07-07T01:18:03.666Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:03.714Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:18:03.733Z] [INFO] Clearing Password field
+[2025-07-07T01:18:03.820Z] [INFO] Clicking Login button
+[2025-07-07T01:18:03.915Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:18:04.510Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:04.829Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:05.062Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:18:05.153Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:05.226Z] [INFO] Clicking Login button
+[2025-07-07T01:18:05.320Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:05.399Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:05.402Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:18:05.504Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:05.573Z] [INFO] Clicking Login button
+[2025-07-07T01:18:05.656Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:05.742Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:06.216Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:06.618Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:06.806Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:18:06.872Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:06.925Z] [INFO] Clicking Login button
+[2025-07-07T01:18:07.010Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:07.066Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:07.291Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:18:07.389Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:07.457Z] [INFO] Clicking Login button
+[2025-07-07T01:18:07.582Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:07.709Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:07.843Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:08.572Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:18:08.581Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:08.675Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:08.753Z] [INFO] Clicking Login button
+[2025-07-07T01:18:09.392Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:18:09.470Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:09.546Z] [INFO] Clicking Login button
+[2025-07-07T01:18:13.847Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:13.912Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:14.626Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:14.652Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:14.742Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:15.221Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:18:15.453Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:15.515Z] [INFO] Clicking Login button
+[2025-07-07T01:18:15.609Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:15.635Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:15.694Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:16.423Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:18:16.515Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:16.520Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:16.586Z] [INFO] Clicking Login button
+[2025-07-07T01:18:16.658Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:16.758Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:17.102Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:18:17.205Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:17.338Z] [INFO] Clicking Login button
+[2025-07-07T01:18:17.472Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:17.569Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:18:17.606Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:18:18.189Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:18:18.287Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:18:18.355Z] [INFO] Clicking Login button
+[2025-07-07T01:18:18.426Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:18:18.480Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:23:56.258Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:23:56.389Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:23:56.979Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:23:57.058Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:23:57.124Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:23:57.288Z] [INFO] Entering username: "testuser"
+[2025-07-07T01:23:57.378Z] [INFO] Clicking Login button
+[2025-07-07T01:23:57.379Z] [INFO] Entering password: "testpass"
+[2025-07-07T01:23:57.445Z] [INFO] Clearing both Username and Password fields
+[2025-07-07T01:23:57.479Z] [INFO] Validating error message. Expected: "Epic sadface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:23:57.698Z] [INFO] Clicking Login button
+[2025-07-07T01:23:57.800Z] [INFO] Validating error message. Expected: "Epic sadface: Username is required" | Actual: "Epic sadface: Username is required"
+[2025-07-07T01:23:58.279Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:23:58.954Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:23:59.010Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:23:59.075Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:23:59.122Z] [INFO] Clearing Password field
+[2025-07-07T01:23:59.190Z] [INFO] Clicking Login button
+[2025-07-07T01:23:59.260Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:23:59.820Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:23:59.924Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:00.001Z] [INFO] Clearing Password field
+[2025-07-07T01:24:00.099Z] [INFO] Clicking Login button
+[2025-07-07T01:24:00.106Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:00.197Z] [INFO] Validating error message. Expected: "Epic sadface: Password is required" | Actual: "Epic sadface: Password is required"
+[2025-07-07T01:24:01.031Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:24:01.300Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:01.301Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:01.353Z] [INFO] Clicking Login button
+[2025-07-07T01:24:01.451Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:01.488Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:02.216Z] [INFO] Entering username: "standard_user"
+[2025-07-07T01:24:02.302Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:02.366Z] [INFO] Clicking Login button
+[2025-07-07T01:24:02.369Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:02.442Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:02.487Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:02.958Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:24:03.033Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:03.090Z] [INFO] Clicking Login button
+[2025-07-07T01:24:03.205Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:03.222Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:03.272Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:03.777Z] [INFO] Entering username: "problem_user"
+[2025-07-07T01:24:03.871Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:03.973Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:03.998Z] [INFO] Clicking Login button
+[2025-07-07T01:24:04.065Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:04.119Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:04.549Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:24:04.679Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:04.745Z] [INFO] Clicking Login button
+[2025-07-07T01:24:04.942Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:05.497Z] [INFO] Entering username: "performance_glitch_user"
+[2025-07-07T01:24:05.579Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:05.664Z] [INFO] Clicking Login button
+[2025-07-07T01:24:09.823Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:09.874Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:10.584Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:10.765Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:10.824Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:11.162Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:24:11.255Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:11.342Z] [INFO] Clicking Login button
+[2025-07-07T01:24:11.447Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:11.545Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:11.601Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:12.163Z] [INFO] Entering username: "error_user"
+[2025-07-07T01:24:12.246Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:12.303Z] [INFO] Clicking Login button
+[2025-07-07T01:24:12.315Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:12.372Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:12.432Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:12.919Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:24:13.005Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:13.070Z] [INFO] Clicking Login button
+[2025-07-07T01:24:13.131Z] [INFO] Navigating to SauceDemo login page
+[2025-07-07T01:24:13.150Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:13.197Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
+[2025-07-07T01:24:13.691Z] [INFO] Entering username: "visual_user"
+[2025-07-07T01:24:13.776Z] [INFO] Entering password: "secret_sauce"
+[2025-07-07T01:24:13.834Z] [INFO] Clicking Login button
+[2025-07-07T01:24:13.915Z] [INFO] Checking if user was redirected to inventory page
+[2025-07-07T01:24:13.975Z] [INFO] Validating page title. Expected: "Swag Labs" | Actual: "Swag Labs"
