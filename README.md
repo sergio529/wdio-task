@@ -47,3 +47,15 @@ npm run wdio
 # generate & browse Allure report:
 npm run allure:generate
 npm run allure:open
+
+---
+
+## 🙌 Author
+
+**Sergio Solarte** – [github.com/sergio529](https://github.com/sergio529)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
